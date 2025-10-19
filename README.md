@@ -1,6 +1,6 @@
 ## Project Description
 This project predicts house prices in Bengaluru using **Linear Regression**, a supervised machine learning algorithm.  
-The model is trained on historical housing data with features like **area, bedrooms, bathrooms, and location** to estimate house prices accurately.  
+The model is trained on historical housing data with features like **bath, balcony, to estimate house prices accurately.  
 
 Users can input house details via a simple interface and get instant predictions, helping buyers and sellers make informed decisions.
 
